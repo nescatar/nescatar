@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Çatar</h1>
-<h3 align="center">I am Student of Management Information Systems. I'm a beginner front end developer.</h3>
+<h3 align="center"> I'm front end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nescatar&label=Profile%20views&color=175e29&style=flat" alt="nescatar" /> </p>
 
