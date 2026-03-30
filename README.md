@@ -12,6 +12,7 @@
 <a href="https://twitter.com/nescatarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nescatarr" height="30" width="40" /></a>
 <a href="https://instagram.com/nescatarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nescatarr" height="30" width="40" /></a>
 <a href="https://discord.gg/enescatar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="enescatar9" height="30" width="40" /></a>
+  <a href="linkedin.com/in/enes-ç-310074382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="enescatar9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
