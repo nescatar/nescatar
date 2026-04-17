@@ -25,21 +25,9 @@
 
 ## 🧑‍💻 Hakkımda / About Me
 
-Merhaba! Ben Enes — İstanbul merkezli bir yazılım geliştiricisiyim. Gündüzleri temiz UI'lar inşa ediyor, geceleri network altyapısı ve sunucu yönetimi dünyasında kayboluyorum. Şu an **VibeCoding** akımını takip ediyor, sistem geliştirme üzerine kafa yoruyorum.
+Merhaba! Ben Enes — yazılım geliştiricisiyim. Genelde temiz UI'lar inşa etmek üzerine çalışıyor aynı zamanda network altyapısı ve sunucu yönetimi alanlarıyla ilgili kendimi geliştiriyorum. Şu an vibecoding akımını takip ediyor, sistem geliştirme üzerine kafa yoruyorum.
 
-> Hello! I'm Enes — an Istanbul-based developer who builds clean UIs by day and gets lost in server rooms by night. Currently riding the **VibeCoding** wave while diving deep into system architecture.
-
-```js
-const enes = {
-  location: "Istanbul, Türkiye 🇹🇷",
-  roles: ["Frontend Developer", "Web Developer"],
-  currentlyLearning: ["Network Infrastructure", "Server Management", "System Development"],
-  funFact: "VibeCoding is not a phase, it's a lifestyle 🎧",
-  contact: "enescatar9@icloud.com"
-};
-```
-
----
+> Hello! I'm Enes —  im a based developer who builds clean UIs by day and gets lost in server rooms by night. Currently riding the **VibeCoding** wave while diving deep into system architecture.
 
 ## 💼 Deneyim / Experience
 
@@ -122,7 +110,7 @@ $ enes --status
 🌐  Network altyapısı keşfediyorum...      [████████░░] 80%
 🖥️  Server yönetimi öğreniyorum...         [██████░░░░] 60%
 ⚙️  Sistem geliştirme projeleri...         [███████░░░] 70%
-🎵  VibeCoding modunda kod yazıyorum...    [██████████] 100% ✅
+**  VibeCoding...    [██████████] 100% ✅
 ```
 
 ---
@@ -141,7 +129,7 @@ $ enes --status
 
 ---
 
-## 🤝 Bağlantı Kuralım / Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -155,9 +143,5 @@ $ enes --status
 ---
 
 <div align="center">
-
-*Bir fikrin mi var? Bir projen mi var? Hadi konuşalım!* 💬
-
 **`< Made with ❤️ and lots of ☕ by Enes Çatar />`**
-
 </div>
