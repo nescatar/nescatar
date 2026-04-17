@@ -27,7 +27,7 @@
 
 Merhaba! Ben Enes — yazılım geliştiricisiyim. Genelde temiz UI'lar inşa etmek üzerine çalışıyor aynı zamanda network altyapısı ve sunucu yönetimi alanlarıyla ilgili kendimi geliştiriyorum. Şu an vibecoding akımını takip ediyor, sistem geliştirme üzerine kafa yoruyorum.
 
-> Hello! I'm Enes —  im a based developer who builds clean UIs by day and gets lost in server rooms by night. Currently riding the **VibeCoding** wave while diving deep into system architecture.
+>Hi! I'm Enes — a software developer. I work on creating clean UIs and also develop in the field of server administration. Currently, I'm following a vibration coding trend and focusing on system development.
 
 ## 💼 Deneyim / Experience
 
