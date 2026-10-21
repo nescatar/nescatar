@@ -113,19 +113,7 @@ $ enes --status
 **  VibeCoding...    [██████████] 100% ✅
 ```
 
----
 
-## 📊 GitHub İstatistikler / GitHub Stats
-
-<div align="center">
-
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nescatar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nescatar&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nescatar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)
-
-</div>
 
 ---
 
