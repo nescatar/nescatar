@@ -13,9 +13,8 @@
 
 **`Frontend Developer → Full-Stack Aspirant → Digital Builder`**
 
-> *"Code is poetry. I just write mine with semicolons."* ⚡
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nescatar&color=orange&style=flat-square&label=Profile+Views)](https://github.com/nescatar)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ç-310074382/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enescatar9@icloud.com)
 
@@ -116,8 +115,10 @@ $ enes --status
 
 
 ---
-
+<div align="center">
 ## 🤝 Let's Connect
+</div>
+
 
 <div align="center">
 
@@ -129,5 +130,5 @@ $ enes --status
 ---
 
 <div align="center">
-**`< Made with ❤️ and lots of ☕ by Enes Çatar />`**
+
 </div>
